@@ -11,7 +11,7 @@ The Version 1.0 folder contains the source code which consumes the V1 REST API p
 
 Version 2.0
 
-The Version 2.0 folder contains the source code which consumes the V2 REST API provided by www.MBTA.com
+The Version 2.0 folder contains the source code "MBTAHelperClass.cs" which consumes the V2 REST API provided by www.MBTA.com
 
 
 
@@ -37,5 +37,15 @@ https://www.youtube.com/watch?v=pHv-T4BL34Y
 
 
 
+
+MBTA API Documentation:
+
+Below are the PDF files provided by www.MBTA.com
+
+Version 1.0:
+MBTA-realtime_DeveloperDocumentation_v1.0.4_2013-11-05
+
+Version 2.0:
+MBTA-realtime_APIDocumentation_v2_2014-08-04.pdf
 
 
